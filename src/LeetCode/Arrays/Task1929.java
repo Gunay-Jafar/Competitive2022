@@ -1,8 +1,8 @@
 package LeetCode.Arrays;
 
-public class Task1929 {
-    //https://leetcode.com/problems/concatenation-of-array/submissions/
+//https://leetcode.com/problems/concatenation-of-array/submissions/
 
+public class Task1929 {
     public int[] getConcatenation(int[] nums) {
         int[] arr = new int[nums.length];
         for (int i = 0; i < nums.length; i++) {
