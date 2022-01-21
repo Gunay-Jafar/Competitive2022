@@ -1,5 +1,6 @@
 package LeetCode.Arrays;
 
+//https://leetcode.com/problems/number-of-good-pairs/submissions/
 public class Task1512 {
     public static void main(String[] args) {
         int[] nums = new int[]{1, 1, 1, 1};
