@@ -1,6 +1,5 @@
 package LeetCode.Arrays;
 
-
 //https://leetcode.com/problems/decompress-run-length-encoded-list/submissions/
 public class Task1313 {
     public static void main(String[] args) {
@@ -21,7 +20,7 @@ public class Task1313 {
             }
         }
 
-        for (int i=0;i<arr.length;i++) {
+        for (int i = 0; i < arr.length; i++) {
             System.out.println(arr[i]);
         }
     }
