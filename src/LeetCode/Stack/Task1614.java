@@ -9,7 +9,6 @@ public class Task1614 {
         int max = 0, count = 0;
         for (int i = 0; i < s.length(); i++) {
             max = Math.max(max, count);
-            1, 2, 3
             if (s.charAt(i) == '(') {
                 st.push(s.charAt(i));
                 count++;// 1,2,3
